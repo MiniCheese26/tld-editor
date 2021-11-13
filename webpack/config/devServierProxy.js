@@ -4,11 +4,6 @@
  */
 import {pathRewrite} from '../utils/helpers';
 
-const httpProxyTarget = {
-    port: 80,
-    protocol: 'http',
-};
-
 const httpsProxyTarget = {
     port: 443,
     protocol: 'https',
