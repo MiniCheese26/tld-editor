@@ -8,4 +8,6 @@ That's all, nothing special :)
 
 I made this after struggling to think of a project name and corresponding domain name for a university group project.
 
+The application *may* be running at https://transname.loc0ded.com/
+
 ![preview](images/preview.png)
